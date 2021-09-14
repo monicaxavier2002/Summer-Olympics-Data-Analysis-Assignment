@@ -10,13 +10,13 @@ You'll learn SQL databases, pandas for data analysis, matplotlib for data visual
 Summer.ipynb = 
 Analysis was done based on the following Questions mentioned below:
 
-1. In how many cities Summer Olympics is held so far?
+1.In how many cities Summer Olympics is held so far?
 
-2. Which sport is having most number of Gold Medals so far? (Top 5)
+2.Which sport is having most number of Gold Medals so far? (Top 5)
 
-3. Which sport is having most number of medals so far? (Top 5)
+3.Which sport is having most number of medals so far? (Top 5)
 
-4. Which player has won most number of medals? (Top 5)
+4.Which player has won most number of medals? (Top 5)
 
 5.Which player has won most number Gold Medals of medals? (Top 5)
 
